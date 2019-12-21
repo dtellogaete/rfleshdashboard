@@ -1,0 +1,6 @@
+- -
+title: "Single Column (Scrolling)"
+output: 
+ flexdashboard::flex_dashboard:
+ vertical_layout: scroll
+ - -
