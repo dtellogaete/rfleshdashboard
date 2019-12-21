@@ -1,0 +1,13 @@
+name: Shiny
+title: Shiny
+username:
+account: danielbusiness
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1612948
+bundleId: 2682410
+url: https://danielbusiness.shinyapps.io/Shiny/
+when: 1576813052.15936
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: server.R|ui.R

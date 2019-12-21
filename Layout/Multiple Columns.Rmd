@@ -1,0 +1,28 @@
+---
+title: "Multiple Columns"
+output: flexdashboard::flex_dashboard
+---
+    
+Column {data-width=600}
+-------------------------------------
+    
+### Panel 1
+    
+```{r}
+
+```
+   
+Column {data-width=400}
+-------------------------------------
+   
+### Panel 2
+
+```{r}
+
+```   
+ 
+### Panel 3
+    
+```{r}
+
+```
